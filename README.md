@@ -4,6 +4,10 @@
 
 Ce TP met en place un service web SOAP avec **Spring Boot** et **Apache CXF** pour gérer des comptes bancaires.
 
+## DEMO
+
+https://github.com/user-attachments/assets/7d718485-3bdf-4e33-85bf-cac489d1c9a2
+
 ## Technologies utilisées
 
 | Technologie | Version | Description |
